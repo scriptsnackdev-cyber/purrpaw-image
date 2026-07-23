@@ -122,8 +122,8 @@ export default function Header() {
             aria-label="Select Model"
           >
             <option value="gemini-2.5-flash-image">Gemini 2.5 Flash</option>
-            <option value="gemini-3.1-flash-image-preview">Gemini 3.1 Flash (Preview)</option>
-            <option value="gemini-3-pro-image-preview">Gemini 3 Pro (Preview)</option>
+            <option value="gemini-3.1-flash-image">Gemini 3.1 Flash</option>
+            <option value="gemini-3-pro-image">Gemini 3 Pro</option>
           </select>
         </div>
 
